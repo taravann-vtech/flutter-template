@@ -1,6 +1,6 @@
 name: flutter_template
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # assets
+  image_gallery_saver: ^2.0.3 # for saving image to gallery after picking
+  image_picker: ^1.1.2 # for picking images
 
 dev_dependencies:
   flutter_test:
