@@ -25,6 +25,7 @@ dependencies:
   image_picker: ^1.1.2 # for picking images
   cached_network_image: ^3.4.1 # for caching images
   flutter_image_compress: ^2.3.0 # for compressing images
+  flutter_svg: ^2.0.10+1 # for svg support
 
 dev_dependencies:
   flutter_test:
