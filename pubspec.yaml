@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # performance
+  flutter_displaymode: ^0.6.0 # for setting resolution and refresh rate for android only
+
   # assets
   image_gallery_saver: ^2.0.3 # for saving image to gallery after picking
   image_picker: ^1.1.2 # for picking images
