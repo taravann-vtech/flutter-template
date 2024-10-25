@@ -20,6 +20,8 @@ dependencies:
   image_cropper: ^8.0.2 # for cropping images
   image_gallery_saver: ^2.0.3 # for saving image to gallery after picking
   image_picker: ^1.1.2 # for picking images
+  cached_network_image: ^3.4.1 # for caching images
+  flutter_image_compress: ^2.3.0 # for compressing images
 
 dev_dependencies:
   flutter_test:
